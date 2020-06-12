@@ -16,7 +16,7 @@ In addition to her research, she is a highly experienced educator and pursuing v
 
 # Contact
 
-[email](tbaum@mit)
+[tbaum@mit.edu](tbaum@mit)
 
 [linkedin](https://www.linkedin.com/in/taylor-baum-b1a4aa105/)
 
