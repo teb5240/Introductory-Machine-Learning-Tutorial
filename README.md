@@ -13,3 +13,10 @@ Written by Taylor Baum. Taylor Baum is a computational neuroscientist and contro
 She is currently advised by Dr. Emery Brown and Dr. Munther Dahleh. In her current work, she is developing brain state estimation algorithms for use in Closed-Loop Anesthetic Delivery (CLAD) systems, building control systems for Closed-Loop Blood Pressure Control (CLBC), and exploring mechanisms of control with the human brain through computational models.
 
 In addition to her research, she is a highly experienced educator and pursuing ventures in the medical and med-tech industries. 
+
+# Contact
+
+[email](tbaum@mit)
+[linkedin](https://www.linkedin.com/in/taylor-baum-b1a4aa105/)
+
+
