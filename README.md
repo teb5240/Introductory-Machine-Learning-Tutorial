@@ -1,6 +1,6 @@
 # BIO-IQ-2020
 
-This is the repository containing the Introductory Machine Learning Tutorial for the BIO IQ Virtual Workshop. To complete the tutorial, one must have jupyter notebook at python3 functional locally.
+This is the repository containing the Introductory Machine Learning Tutorial for the BIO IQ Virtual Workshop. To complete the tutorial, one must have jupyter notebook and python3 functional locally.
 
 # Accompanying Slides
 
