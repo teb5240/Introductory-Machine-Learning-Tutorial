@@ -2,9 +2,32 @@
 
 This is the repository containing the Introductory Machine Learning Tutorial for the BIO IQ Virtual Workshop. To complete the tutorial, one must have jupyter notebook and python3 functional locally.
 
+# Howto: Tutorial
+
+In order to use this tutorial, you need to be aware of two files. There are only two jupyter notebooks in this repository, `Introductory Machine Learning Tutorial.ipynb` and `Introductory Machine Learning Tutorial Solution.ipynb` By downloading or cloning the repository, and opening the solution notebook `Introductory Machine Learning Tutorial Solution.ipynb` and running it succesfully, you will confirm that you have all of the necessary software. Woohoo!
+
+To complete the tutorial, open the notebook entitled: `Introductory Machine Learning Tutorial.ipynb` and fill in the components of the code which say `[FILL IN]`.
+
+# Howto: Install Jupyter Notebook
+
+I would recommend if you don't have much experience with notebooks to use Anaconda. This helps to get beginners started!
+
+## Windows
+
+Go [here](https://docs.anaconda.com/anaconda/install/windows/).
+
+## macOS
+
+Go [here](https://docs.anaconda.com/anaconda/install/mac-os/).
+
+## Ubuntu
+
+Go [here](https://docs.anaconda.com/anaconda/install/linux/).
+
 # Accompanying Slides
 
-https://docs.google.com/presentation/d/1Y1sH9DrB1aemoAuCJJTMZfxXW5ULIoI6irOsvt2Nw2I/edit?usp=sharing
+There are accompanying slides to this talk that you can see at [this link](https://docs.google.com/presentation/d/1Y1sH9DrB1aemoAuCJJTMZfxXW5ULIoI6irOsvt2Nw2I/edit?usp=sharing
+). They are also available as a PDF above.
 
 # Author
 
@@ -16,7 +39,7 @@ In addition to her research, she is a highly experienced educator and pursuing v
 
 # Contact
 
-[tbaum@mit.edu](tbaum@mit)
+[tbaum@mit.edu](tbaum@mit.edu)
 
 [linkedin](https://www.linkedin.com/in/taylor-baum-b1a4aa105/)
 
